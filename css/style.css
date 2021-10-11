@@ -231,3 +231,6 @@ body {
   padding: 24px 52px;
   text-decoration: none;
 }
+.scheme-svg {
+  max-width: 100%;
+}
