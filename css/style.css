@@ -132,6 +132,6 @@ header::after {
   width: 100px;
   height: 100px;
   left: 0;
-  background-image: url(/images/youtube\ .svg);
+  background-image: url(../images/youtube\ .svg);
   top: -40px;
 }
